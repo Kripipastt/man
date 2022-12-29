@@ -1,2 +1,16 @@
 В ветке master более длинное сообщение в файле README
 
+В ветке master 11 коммитов:
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge branch 'boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge branch 'hat'
+Merge branch 'boots_buttons'
+Add hometask
+
+(После добавление этого коммита их будет 12)
